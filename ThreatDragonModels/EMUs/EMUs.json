@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "EMUs",
+    "owner": "Di"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "EMU",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
